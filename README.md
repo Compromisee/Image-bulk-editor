@@ -25,9 +25,6 @@ onnxruntime
 
 ---
 
-## 📖 README.md
-
-```markdown
 # 🖼 Image Processor Bot
 
 A powerful Python automation tool for bulk image processing.
@@ -252,7 +249,7 @@ Feel free to use, modify, and share!
 Made with ❤️ and Python
 
 ⭐ **Star this repo if you found it useful!**
-```
+
 
 ---
 
@@ -284,4 +281,3 @@ python image_processor.py
 
 ---
 
-Just ask! 👇
