@@ -1,30 +1,4 @@
 
----
-
-## 📁 Project Structure
-```
-image-processor/
-│
-├── image_processor.py
-├── requirements.txt
-├── README.md
-├── input/          (put your images here)
-├── output/         (processed images go here)
-└── watermark.png   (your watermark image)
-```
-
----
-
-## 📄 requirements.txt
-
-```
-Pillow
-rembg
-onnxruntime
-```
-
----
-
 # 🖼 Image Processor Bot
 
 A powerful Python automation tool for bulk image processing.
@@ -281,3 +255,33 @@ python image_processor.py
 
 ---
 
+
+
+
+
+
+---
+
+## 📁 Project Structure
+```
+image-processor/
+│
+├── image_processor.py
+├── requirements.txt
+├── README.md
+├── input/          (put your images here)
+├── output/         (processed images go here)
+└── watermark.png   (your watermark image)
+```
+
+---
+
+## 📄 requirements.txt
+
+```
+Pillow
+rembg
+onnxruntime
+```
+
+---
